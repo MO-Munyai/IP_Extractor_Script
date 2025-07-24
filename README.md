@@ -1,4 +1,4 @@
-# xl ip extractor - fetch_ip.py
+# ip extractor - fetch_ip.py
 
 This script extracts all unique IPv4 addresses from an Excel file and saves them to a text file.
 
